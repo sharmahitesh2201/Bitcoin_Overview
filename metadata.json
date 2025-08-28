@@ -1,0 +1,5 @@
+{
+  "name": "Bitcoin Market Overview",
+  "description": "A React web application visualizing Bitcoin's evolution, market statistics, and future outlook using interactive charts and key metrics.",
+  "requestFramePermissions": []
+}
